@@ -44,14 +44,6 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Shortcodes</title>
-    <link>http://localhost:1313/tags/shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/tags/shortcodes/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>HTML</title>
     <link>http://localhost:1313/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
@@ -81,6 +73,14 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>一路同行</author>
     <guid>http://localhost:1313/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>http://localhost:1313/tags/configuration/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/configuration/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

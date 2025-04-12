@@ -22,12 +22,6 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 <!--more-->
 
-{{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
-
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
-{{< /admonition >}}
-
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
@@ -53,9 +47,7 @@ John Gruber, the author of Markdown, puts it like this:
 
 Without further delay, let us go over the main elements of Markdown and what the resulting HTML looks like!
 
-{{< admonition tip >}}
-:(far fa-bookmark fa-fw): Bookmark this page for easy future reference!
-{{< /admonition >}}
+
 
 ## 1 Headings
 
@@ -79,19 +71,6 @@ The HTML looks like this:
 <h6>h6 Heading</h6>
 ```
 
-{{< admonition note "Heading IDs" >}}
-To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading:
-
-```markdown
-### A Great Heading {#custom-id}
-```
-
-The HTML looks like this:
-
-```html
-<h3 id="custom-id">A Great Heading</h3>
-```
-{{< /admonition >}}
 
 ## 2 Comments
 
