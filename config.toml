@@ -576,7 +576,7 @@ darkTheme = "github-dark"
 # You can refer to the official documentation of giscus to use the following configuration.
 # 你可以参考官方文档来使用下列配置
 enable = true
-repo = "chenguangwei/blog-comment.git"
+repo = "chenguangwei/blog-comment"
 repoId = "R_kgDOOSIvag"
 category = "Announcements"
 categoryId = "DIC_kwDOOSIvas4CpBpO"
