@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "关于 LoveIt"
 date: 2019-08-02T11:04:49+08:00
 draft: false
@@ -121,4 +121,4 @@ LoveIt 主题中用到了以下项目，感谢它们的作者：
 * [MetingJS](https://github.com/metowolf/MetingJS)
 * [Gitalk](https://github.com/gitalk/gitalk)
 * [Valine](https://valine.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
+* [cookieconsent](https://github.com/osano/cookieconsent) -->
