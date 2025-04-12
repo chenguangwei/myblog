@@ -577,9 +577,9 @@ darkTheme = "github-dark"
 # 你可以参考官方文档来使用下列配置
 enable = true
 repo = "chenguangwei/blog-comment.git"
-repoId = ""
+repoId = "R_kgDOOSIvag"
 category = "Announcements"
-categoryId = ""
+categoryId = "DIC_kwDOOSIvas4CpBpO"
 # automatically adapt the current theme i18n configuration when empty
 # 为空时自动适配当前主题 i18n 配置
 lang = ""
