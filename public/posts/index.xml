@@ -4,28 +4,12 @@
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 一路同行</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Tue, 08 Apr 2025 20:56:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>主题文档 - 基本概念</title>
-    <link>http://localhost:1313/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - 内容</title>
-    <link>http://localhost:1313/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/theme-documentation-content/</guid>
-    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
-</item>
-<item>
-    <title>Markdown 基本语法</title>
-    <link>http://localhost:1313/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>cgw</author>
-    <guid>http://localhost:1313/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
+    <title>ASR文章列表</title>
+    <link>http://localhost:1313/posts/ai/</link>
+    <pubDate>Tue, 08 Apr 2025 20:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/posts/ai/</guid>
+    <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Emoji 支持</title>
@@ -34,38 +18,6 @@
     <author>Dillon</author>
     <guid>http://localhost:1313/emoji-support/</guid>
     <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item>
-<item>
-    <title>ASR文章列表</title>
-    <link>http://localhost:1313/posts/ai/asr/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/posts/ai/asr/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>LLM文章列表</title>
-    <link>http://localhost:1313/posts/ai/llm/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/posts/ai/llm/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>RAG文章列表</title>
-    <link>http://localhost:1313/posts/ai/rag/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/posts/ai/rag/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>TTS文章列表</title>
-    <link>http://localhost:1313/posts/ai/tts/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/posts/ai/tts/</guid>
-    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>

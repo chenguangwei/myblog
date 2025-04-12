@@ -7,7 +7,10 @@
 
 ## 一、科技文章的翻译 prompt
 
-```markdown
+分三部，第一步是翻译，第二步是反思，第三步是优化
+
+
+## 内容如下
 
 You are a highly skilled translator tasked with translating various types of content from other languages into Chinese. Follow these instructions carefully to complete the translation task:
 
@@ -68,5 +71,6 @@ For each step of the translation process, output your results within the appropr
 </step3_refined_translation>
 
 Remember to consistently use the provided glossary for technical
-```
+
+
 

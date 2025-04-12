@@ -846,7 +846,7 @@ identifier = "github"
 pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
 post = ""
 name = ""
-url = "https://github.com/dillonzq/LoveIt"
+url = "https://github.com/chenguangwei"
 title = "GitHub"
 [languages.en.params]
 [languages.en.params.search]
@@ -884,8 +884,8 @@ Twitter = "https://x.com/cgw1017"
 #Email = "xxxx@xxxx.com"
 RSS = true
 [languages.en.params.social.Mastodon]
-id = "@xxxx"
-prefix = "https://mastodon.technology/"
+id = "@cgw"
+prefix = "https://myblog.yilutongxing.dev"
 
 [languages.zh-cn]
 weight = 2
@@ -900,11 +900,11 @@ identifier = "posts"
 pre = ""
 post = ""
 name = "所有文章"
-url = "/post/"
+url = "/posts/"
 title = ""
 [[languages.zh-cn.menu.main]]
 weight = 1
-identifier = "ai"
+identifier = "AI"
 pre = ""
 post = ""
 name = "AI"

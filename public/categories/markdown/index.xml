@@ -3,15 +3,7 @@
         <title>Markdown - 分类 - 一路同行</title>
         <link>http://localhost:1313/categories/markdown/</link>
         <description>Markdown - 分类 - 一路同行</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Markdown 基本语法</title>
-    <link>http://localhost:1313/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>cgw</author>
-    <guid>http://localhost:1313/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Emoji 支持</title>
     <link>http://localhost:1313/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>

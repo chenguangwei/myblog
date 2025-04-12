@@ -11,33 +11,6 @@
                     hreflang="en"
                     href="http://localhost:1313/en/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-basics/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-basics/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-content/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-content/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/basic-markdown-syntax/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/basic-markdown-syntax/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/basic-markdown-syntax/"
-                    /></url><url>
             <loc>http://localhost:1313/en/emoji-support/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -110,50 +83,14 @@
                     hreflang="en"
                     href="http://localhost:1313/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/configuration/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/configuration/"
+                        href="http://localhost:1313/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/configuration/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/installation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/installation/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/content/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/content/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/markdown/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/html/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/html/"
+                    href="http://localhost:1313/en/tags/emoji/"
                     /></url><url>
             <loc>http://localhost:1313/en/categories/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -163,15 +100,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/en/categories/markdown/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/emoji/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/emoji/"
                     /></url><url>
             <loc>http://localhost:1313/en/categories/documentation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

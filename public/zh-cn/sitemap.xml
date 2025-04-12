@@ -11,6 +11,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/categories/ai/"
                     /></url><url>
+            <loc>http://localhost:1313/posts/ai/</loc><lastmod>2025-04-08T20:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/categories/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -21,6 +22,7 @@
                     href="http://localhost:1313/categories/"
                     /></url><url>
             <loc>http://localhost:1313/tags/llm/</loc><lastmod>2025-04-08T20:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/ai/llm/</loc><lastmod>2025-04-08T20:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -77,60 +79,6 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/"
                     /></url><url>
-            <loc>http://localhost:1313/theme-documentation-basics/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/theme-documentation-basics/"
-                    /></url><url>
-            <loc>http://localhost:1313/tags/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/tags/markdown/"
-                    /></url><url>
-            <loc>http://localhost:1313/theme-documentation-content/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/theme-documentation-content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/theme-documentation-content/"
-                    /></url><url>
-            <loc>http://localhost:1313/tags/html/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/tags/html/"
-                    /></url><url>
-            <loc>http://localhost:1313/categories/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/categories/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/categories/markdown/"
-                    /></url><url>
-            <loc>http://localhost:1313/basic-markdown-syntax/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/basic-markdown-syntax/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/basic-markdown-syntax/"
-                    /></url><url>
             <loc>http://localhost:1313/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -149,37 +97,21 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/emoji-support/"
                     /></url><url>
-            <loc>http://localhost:1313/posts/ai/asr/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/ai/llm/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/ai/rag/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/ai/tts/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/installation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/categories/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/en/tags/installation/"
+                        href="http://localhost:1313/en/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:1313/tags/installation/"
+                    href="http://localhost:1313/categories/markdown/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/content/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/tags/content/"
-                    /></url><url>
-            <loc>http://localhost:1313/tags/configuration/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/tags/configuration/"
-                    /></url><url>
+            <loc>http://localhost:1313/posts/ai/asr/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/posts/ai/rag/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/posts/ai/tts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/installation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/content/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/configuration/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
