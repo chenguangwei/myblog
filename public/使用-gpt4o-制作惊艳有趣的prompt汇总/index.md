@@ -1,23 +1,5 @@
----
-title: "一款细致精美、萌趣可爱的3D渲染双人收藏摆件 prompt"
-date: 2025-04-08T20:56:23+08:00
-draft: false
-authors:
-  - "一路同行"
-tags: ["一款细致精美、萌趣可爱的3D渲染双人收藏摆件 prompt", "LLM"]
-comment: true
+# 一款细致精美、萌趣可爱的3D渲染双人收藏摆件 prompt
 
-resources:
-  - name: "featured-image-preview"
-    src: "featured-image.png"
-
-categories: ["AI"]
-
-lightgallery: false
-toc:
-  auto: false
-
----
 
 根据照片上的内容打造一款细致精美、萌趣可爱的3D渲染双人收藏摆件
 
@@ -45,5 +27,6 @@ Sora 或者 GPT-4o
 样例：
 
 <img src="https://pub-7259be827a654c9d967dc72dc1c91fdd.r2.dev/2025/04/91f466b96a42d06edfca96af50a9d587.jpeg" title="" alt="" width="282">
+
 
 
