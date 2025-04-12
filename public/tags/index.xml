@@ -1,0 +1,87 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - 一路同行</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - 标签 - 一路同行</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Tue, 08 Apr 2025 20:56:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>LLM</title>
+    <link>http://localhost:1313/tags/llm/</link>
+    <pubDate>Tue, 08 Apr 2025 20:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/llm/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>一款细致精美、萌趣可爱的3D渲染双人收藏摆件 Prompt</title>
+    <link>http://localhost:1313/tags/%E4%B8%80%E6%AC%BE%E7%BB%86%E8%87%B4%E7%B2%BE%E7%BE%8E%E8%90%8C%E8%B6%A3%E5%8F%AF%E7%88%B1%E7%9A%843d%E6%B8%B2%E6%9F%93%E5%8F%8C%E4%BA%BA%E6%94%B6%E8%97%8F%E6%91%86%E4%BB%B6-prompt/</link>
+    <pubDate>Tue, 08 Apr 2025 20:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/%E4%B8%80%E6%AC%BE%E7%BB%86%E8%87%B4%E7%B2%BE%E7%BE%8E%E8%90%8C%E8%B6%A3%E5%8F%AF%E7%88%B1%E7%9A%843d%E6%B8%B2%E6%9F%93%E5%8F%8C%E4%BA%BA%E6%94%B6%E8%97%8F%E6%91%86%E4%BB%B6-prompt/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>AI</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <pubDate>Tue, 08 Apr 2025 18:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Prompt</title>
+    <link>http://localhost:1313/tags/prompt/</link>
+    <pubDate>Tue, 08 Apr 2025 18:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/prompt/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>安装</title>
+    <link>http://localhost:1313/tags/installation/</link>
+    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/installation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>http://localhost:1313/tags/configuration/</link>
+    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>内容</title>
+    <link>http://localhost:1313/tags/content/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Shortcodes</title>
+    <link>http://localhost:1313/tags/shortcodes/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>http://localhost:1313/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

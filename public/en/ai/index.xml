@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIs on 一路同行</title>
+    <link>http://localhost:1313/en/ai/</link>
+    <description>Recent content in AIs on 一路同行</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 08 Apr 2025 18:56:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大模型翻译 prompt</title>
+      <link>http://localhost:1313/en/ai/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/</link>
+      <pubDate>Tue, 08 Apr 2025 18:56:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/ai/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;大模型翻译&lt;/strong&gt; 提供了常用的优质专业的基于大模型的翻译方法。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
