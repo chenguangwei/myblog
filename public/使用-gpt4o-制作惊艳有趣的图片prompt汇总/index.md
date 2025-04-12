@@ -42,3 +42,12 @@ Sora 或者 GPT-4o
 <img src="https://pub-7259be827a654c9d967dc72dc1c91fdd.r2.dev/2025/04/314875584787ef98fa39597c4daad4b5.jpeg" title="" alt="" width="282">
 
 
+## 场景3：
+突破次元壁！与名画手牵手
+
+### 提示词：
+> 画中的人物活了过来与你牵手：把图片里的人物变成3d q版人物，c4d渲染，Pixar 可爱风格，眼睛要大大的，然后这个人物从自己的画里（画是圆角矩形区域）里伸出手与一只真手牵手
+
+
+<img src="https://pub-7259be827a654c9d967dc72dc1c91fdd.r2.dev/2025/04/314875584787ef98fa39597c4daad4b5.jpeg" title="" alt="" width="282">
+
