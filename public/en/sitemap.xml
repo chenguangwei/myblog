@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/"
                     /></url><url>
-            <loc>http://localhost:1313/en/emoji-support/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/emoji-support/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/emoji-support/"
@@ -20,7 +20,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/emoji-support/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/ai/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/ai/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/ai/"
@@ -29,7 +29,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/categories/ai/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/ai/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/ai/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/ai/"
@@ -38,7 +38,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/ai/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/"
@@ -47,7 +47,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/posts/"
@@ -56,7 +56,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/prompt/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/prompt/</loc><lastmod>2025-04-08T18:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/prompt/"
@@ -65,7 +65,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/prompt/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/"
@@ -74,7 +74,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/"
@@ -83,7 +83,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/emoji/"
@@ -92,7 +92,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/emoji/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/markdown/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/markdown/"
@@ -101,7 +101,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/categories/markdown/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/documentation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/documentation/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/documentation/"

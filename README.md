@@ -5,16 +5,13 @@
 
 <strong>一个 Hugo + Markdown 的个人博客项目，开箱即用</strong>
 
-
-
 本博客主题修改自[hugo-theme-LoveItn](https://github.com/dillonzq/LoveItn)
 
-[**在线预览（忽略站内广告）**](https://myblog.yilutongxing.cn) • [**部署配置教程**](#部署配置教程) • [**Twitter关注我**](https://x.com/cgw1017) 
+[**在线预览（忽略站内广告）**](https://myblog.yilutongxing.dev) • [**部署配置教程**](#部署配置教程) • [**Twitter关注我**](https://x.com/cgw1017) 
+
 </div>
 
 ### 功能特性
-
-
 
 ## 目录
 
@@ -36,7 +33,6 @@
   * [解析域名](#解析域名)
   * [配置域名](#配置域名)
   * [自动更改自定义域名](#自动更改自定义域名)
-
 
 ### 部署配置教程
 
@@ -61,7 +57,6 @@ Press Ctrl+C to stop
 
 现在在浏览器打开 `http://localhost:1313`，就能看到效果了。当然了，刚开始肯定只有基础样式，没有内容。
 
-
 启动之后，之后做的修改会自动热部署，不用重启应用，除非有些配置的修改。什么配置呢，就是那种你发现改了，刷新页面了，但是没起作用，很多时候就是需要重启了。
 
 `Ctrl+C`停止应用，然后`hugo server`重新启动。
@@ -76,7 +71,7 @@ Press Ctrl+C to stop
 
 | 名称                             | 值                                                  | 说明                                    |
 | ------------------------------ | -------------------------------------------------- | ------------------------------------- |
-| baseURL                        | "https://myblog.yilutongxing.cn"                           | 网站的基础 URL，引用的本地图片、css等，将会以这个地址作为 host |
+| baseURL                        | "https://myblog.yilutongxing.cn"                   | 网站的基础 URL，引用的本地图片、css等，将会以这个地址作为 host |
 | title                          | "古时的风筝"                                            | 网站的标题                                 |
 | theme                          | "hugo-theme-den"                                   | 网站所使用的主题                              |
 | enableRobotsTXT                | true                                               | 生成 robots.txt 文件，用于控制搜索引擎爬虫的访问        |
@@ -111,6 +106,3 @@ Press Ctrl+C to stop
 | params.showAuthorCard          | true                                               | 是否在文章下方显示作者信息                         |
 | params.comments                | true                                               | 是否启用评论功能                              |
 | params.showMenuLanguages       | true                                               | 是否显示多                                 |
-
-
-
