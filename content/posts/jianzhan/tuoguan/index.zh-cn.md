@@ -12,12 +12,12 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-categories: ["托管"]
+categories: ["运维"]
 
 lightgallery: false
 toc:
   auto: false
-  
+
 ---
 
 自托管 Vercel 替代选择 Coolify（懒人包）.
