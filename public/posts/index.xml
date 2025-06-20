@@ -3,7 +3,7 @@
         <title>所有文章 - 一路同行</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 一路同行</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Tue, 22 Apr 2025 20:56:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Thu, 01 May 2025 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>用Cursor AI 编程 实现了一个 AI&#43;Saas 模板</title>
     <link>http://localhost:1313/ai-saas-template/</link>
     <pubDate>Tue, 22 Apr 2025 20:56:23 &#43;0800</pubDate>
@@ -25,6 +25,14 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>一路同行</author>
     <guid>http://localhost:1313/posts/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>建站文章列表</title>
+    <link>http://localhost:1313/posts/jianzhan/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/posts/jianzhan/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
