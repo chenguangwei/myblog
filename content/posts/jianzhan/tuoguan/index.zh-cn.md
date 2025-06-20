@@ -4,7 +4,7 @@ title: "自托管 Vercel 替代选择 Coolify（懒人包）"
 date: 2025-05-01T17:55:28+08:00
 lastmod: 2025-05-01T17:55:28+08:00
 draft: false
-author: "Dillon"
+author: "一路同行"
 authorLink: ""
 description: "自托管 Vercel 替代选择 Coolify（懒人包）."
 images: []
@@ -12,18 +12,19 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["emoji"]
-categories: ["Markdown"]
+categories: ["托管"]
 
-twemoji: false
-lightgallery: true
+lightgallery: false
+toc:
+  auto: false
+  
 ---
 
 自托管 Vercel 替代选择 Coolify（懒人包）.
 
 <!--more-->
 
-自托管 Vercel 替代选择 Coolify（懒人包）🚀
+# 自托管 Vercel 替代选择 Coolify（懒人包）🚀
 
 在寻找网站部署解决方案时，许多开发者会考虑像 Vercel 这样的服务。然而，自托管替代方案可能带来更好的成本控制和更高的灵活性。以下是一些优秀的自托管选项，这些工具允许你在自己的服务器上部署和管理 Web 应用。
 
