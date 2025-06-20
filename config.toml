@@ -943,6 +943,15 @@ name = "关于"
 url = "/about/"
 title = ""
 [[languages.zh-cn.menu.main]]
+weight = 7
+identifier = "运维"
+#parent = "posts"
+#pre = ""
+#post = ""
+name = "jianzhan"
+url = "/posts/jianzhan/"
+#title = ""
+[[languages.zh-cn.menu.main]]
 weight = 6
 identifier = "github"
 pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
