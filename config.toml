@@ -905,11 +905,8 @@ title = ""
 [[languages.zh-cn.menu.main]]
 weight = 1
 identifier = "AI"
-#parent = "posts"
-#pre = ""
-#post = ""
 name = "AI"
-url = "/posts/AI/"
+url = "/posts/ai/"
 #title = ""
 [[languages.zh-cn.menu.main]]
 weight = 2

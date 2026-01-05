@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有ASR文章列表 - 一路同行</title>
+        <title>所有AI文章列表 - 一路同行</title>
         <link>http://localhost:1313/posts/ai/</link>
-        <description>所有ASR文章列表 | 一路同行</description>
+        <description>所有AI文章列表 | 一路同行</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><atom:link href="http://localhost:1313/posts/ai/" rel="self" type="application/rss+xml" /><item>
     <title>ASR文章列表</title>
     <link>http://localhost:1313/posts/ai/asr/</link>
@@ -28,7 +28,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>TTS文章列表</title>
+    <title>TTS</title>
     <link>http://localhost:1313/posts/ai/tts/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>一路同行</author>
