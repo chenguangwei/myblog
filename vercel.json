@@ -1,0 +1,31 @@
+{
+  "framework": "hugo",
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "cleanUrls": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-UA-Compatible",
+          "value": "IE=Edge"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/:path*/",
+      "destination": "/:path*index.html"
+    }
+  ],
+  "ignores": [
+    "_build.mjs",
+    "tailwind.*.js"
+  ]
+}
