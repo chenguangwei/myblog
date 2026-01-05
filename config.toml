@@ -243,8 +243,8 @@ highlightTag = "em"
 # 是否在搜索索引中使用基于 baseURL 的绝对路径
 absoluteURL = false
 [params.search.algolia]
-index = ""
-appID = ""
+index = "index.en"
+appID = "PASDMWALPK"
 searchKey = ""
 
 # Home page config
