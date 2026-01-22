@@ -23,9 +23,5 @@
       "source": "/:path*/",
       "destination": "/:path*index.html"
     }
-  ],
-  "ignores": [
-    "_build.mjs",
-    "tailwind.*.js"
   ]
 }
