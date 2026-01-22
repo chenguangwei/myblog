@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>所有建站文章列表 - 一路同行</title>
-        <link>http://localhost:1313/posts/jianzhan/</link>
-        <description>所有建站文章列表 | 一路同行</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><atom:link href="http://localhost:1313/posts/jianzhan/" rel="self" type="application/rss+xml" /><item>
-    <title>自托管 Vercel 替代选择 Coolify（懒人包）</title>
-    <link>http://localhost:1313/tuoguan/</link>
-    <pubDate>Thu, 01 May 2025 17:55:28 &#43;0800</pubDate>
-    <author>一路同行</author>
-    <guid>http://localhost:1313/tuoguan/</guid>
-    <description><![CDATA[<p>自托管 Vercel 替代选择 Coolify（懒人包）.</p>]]></description>
-</item>
-</channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有建站文章列表 - 一路同行</title><link>https://myblog.yilutongxing.dev/posts/jianzhan/</link><description>所有建站文章列表 | 一路同行</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><atom:link href="https://myblog.yilutongxing.dev/posts/jianzhan/" rel="self" type="application/rss+xml"/><item><title>自托管 Vercel 替代选择 Coolify（懒人包）</title><link>https://myblog.yilutongxing.dev/tuoguan/</link><pubDate>Thu, 01 May 2025 17:55:28 +0800</pubDate><author>一路同行</author><guid>https://myblog.yilutongxing.dev/tuoguan/</guid><description>&lt;p>自托管 Vercel 替代选择 Coolify（懒人包）.&lt;/p></description></item></channel></rss>
