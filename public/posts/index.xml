@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 一路同行</title><link>https://myblog.yilutongxing.dev/posts/</link><description>所有文章 | 一路同行</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Thu, 01 May 2025 17:55:28 +0800</lastBuildDate><atom:link href="https://myblog.yilutongxing.dev/posts/" rel="self" type="application/rss+xml"/><item><title>用Cursor AI 编程 实现了一个 AI+Saas 模板</title><link>https://myblog.yilutongxing.dev/ai-saas-template/</link><pubDate>Tue, 22 Apr 2025 20:56:23 +0800</pubDate><author>一路同行</author><guid>https://myblog.yilutongxing.dev/ai-saas-template/</guid><description>&lt;p>用Cursor AI 编程 实现了一个 AI+Saas 模板&lt;/p></description></item><item><title>Claude Code 精通指南：实现 10 倍效率的高级模式</title><link>https://myblog.yilutongxing.dev/claude-code/</link><pubDate>Wed, 22 Jan 2025 23:00:00 +0800</pubDate><author>一路同行</author><guid>https://myblog.yilutongxing.dev/claude-code/</guid><description><![CDATA[<h1 id="claude-code-精通指南实现-10-倍效率的高级模式">Claude Code 精通指南：实现 10 倍效率的高级模式</h1>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 一路同行</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | 一路同行</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Thu, 01 May 2025 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Claude Code 精通指南：实现 10 倍效率的高级模式</title>
+    <link>http://localhost:1313/claude-code/</link>
+    <pubDate>Wed, 22 Jan 2025 23:00:00 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/claude-code/</guid>
+    <description><![CDATA[<h1 id="claude-code-精通指南实现-10-倍效率的高级模式">Claude Code 精通指南：实现 10 倍效率的高级模式</h1>
 <p><strong>一份关于那些真正能带来实质提升的模式的综合指南</strong></p>
 <p><em>基于 2000+ 小时 LLM（大语言模型）辅助编程经验</em></p>
 <hr>
@@ -17,4 +28,39 @@
 <hr>
 <h2 id="1-核心理念context上下文工程">1. 核心理念：Context（上下文）工程</h2>
 <h3 id="根本性的思维转变">根本性的思维转变</h3>
-<p><strong>LLM 生成代码中的任何问题，归根结底都是你的责任。</strong></p>]]></description></item><item><title>Emoji 支持</title><link>https://myblog.yilutongxing.dev/emoji-support/</link><pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate><author>Dillon</author><guid>https://myblog.yilutongxing.dev/emoji-support/</guid><description>&lt;p>Emoji 可以通过多种方式在 Hugo 项目中启用.&lt;/p></description></item><item><title>AI文章列表</title><link>https://myblog.yilutongxing.dev/posts/ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>一路同行</author><guid>https://myblog.yilutongxing.dev/posts/ai/</guid><description></description></item><item><title>建站文章列表</title><link>https://myblog.yilutongxing.dev/posts/jianzhan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>一路同行</author><guid>https://myblog.yilutongxing.dev/posts/jianzhan/</guid><description></description></item></channel></rss>
+<p><strong>LLM 生成代码中的任何问题，归根结底都是你的责任。</strong></p>]]></description>
+</item>
+<item>
+    <title>用Cursor AI 编程 实现了一个 AI&#43;Saas 模板</title>
+    <link>http://localhost:1313/ai-saas-template/</link>
+    <pubDate>Tue, 22 Apr 2025 20:56:23 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/ai-saas-template/</guid>
+    <description><![CDATA[<p>用Cursor AI 编程 实现了一个 AI+Saas 模板</p>]]></description>
+</item>
+<item>
+    <title>Emoji 支持</title>
+    <link>http://localhost:1313/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:1313/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
+</item>
+<item>
+    <title>AI文章列表</title>
+    <link>http://localhost:1313/posts/ai/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/posts/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>建站文章列表</title>
+    <link>http://localhost:1313/posts/jianzhan/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/posts/jianzhan/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

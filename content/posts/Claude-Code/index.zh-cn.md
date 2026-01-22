@@ -1,9 +1,14 @@
 ---
+weight: 2
 title: "Claude Code 精通指南：实现 10 倍效率的高级模式"
 date: 2025-01-22T23:00:00+08:00
 lastmod: 2025-01-22T23:00:00+08:00
 draft: false
 author: "一路同行"
+images: []
+resources:
+  - name: "featured-image-preview"
+    src: "featured-image.jpg"
 description: "一份关于那些真正能带来实质提升的模式的综合指南。基于 2000+ 小时 LLM 辅助编程经验。"
 categories: ["AI"]
 tags: ["Claude Code", "LLM", "效率", "编程"]

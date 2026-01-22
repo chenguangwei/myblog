@@ -1,9 +1,14 @@
 ---
+weight: 2
 title: "Claude Code Mastery: Advanced Patterns for 10x Productivity"
 date: 2025-01-22T23:00:00+08:00
 lastmod: 2025-01-22T23:00:00+08:00
 draft: false
 author: "一路同行"
+images: []
+resources:
+  - name: "featured-image-preview"
+    src: "featured-image.jpg"
 description: "A comprehensive guide to the patterns that actually move the needle. Reverse-engineered from 2000+ hours of LLM-assisted coding."
 categories: ["AI"]
 tags: ["Claude Code", "LLM", "Productivity", "Programming"]

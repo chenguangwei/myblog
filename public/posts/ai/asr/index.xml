@@ -1,1 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有ASR文章列表 - 一路同行</title><link>https://myblog.yilutongxing.dev/posts/ai/asr/</link><description>所有ASR文章列表 | 一路同行</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><atom:link href="https://myblog.yilutongxing.dev/posts/ai/asr/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有ASR文章列表 - 一路同行</title>
+        <link>http://localhost:1313/posts/ai/asr/</link>
+        <description>所有ASR文章列表 | 一路同行</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><atom:link href="http://localhost:1313/posts/ai/asr/" rel="self" type="application/rss+xml" /></channel>
+</rss>
