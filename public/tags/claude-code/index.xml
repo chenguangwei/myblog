@@ -3,7 +3,15 @@
         <title>Claude Code - 标签 - 一路同行</title>
         <link>http://localhost:1313/tags/claude-code/</link>
         <description>Claude Code - 标签 - 一路同行</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Wed, 22 Jan 2025 23:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/claude-code/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>一路同行</copyright><lastBuildDate>Mon, 27 Jan 2025 10:00:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/claude-code/" rel="self" type="application/rss+xml" /><item>
+    <title>高强度使用 Claude 编程随感</title>
+    <link>http://localhost:1313/claude-coding-thoughts/</link>
+    <pubDate>Mon, 27 Jan 2025 10:00:00 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/claude-coding-thoughts/</guid>
+    <description><![CDATA[<p>这是关于过去几周我高强度使用 Claude 写代码的一些随感笔记。</p>]]></description>
+</item>
+<item>
     <title>Claude Code 精通指南：实现 10 倍效率的高级模式</title>
     <link>http://localhost:1313/claude-code/</link>
     <pubDate>Wed, 22 Jan 2025 23:00:00 &#43;0800</pubDate>
@@ -29,6 +37,33 @@
 <h2 id="1-核心理念context上下文工程">1. 核心理念：Context（上下文）工程</h2>
 <h3 id="根本性的思维转变">根本性的思维转变</h3>
 <p><strong>LLM 生成代码中的任何问题，归根结底都是你的责任。</strong></p>]]></description>
+</item>
+<item>
+    <title>Claude Code Mastery: Advanced Patterns for 10x Productivity</title>
+    <link>http://localhost:1313/claude-code-en/</link>
+    <pubDate>Wed, 22 Jan 2025 23:00:00 &#43;0800</pubDate>
+    <author>一路同行</author>
+    <guid>http://localhost:1313/claude-code-en/</guid>
+    <description><![CDATA[<h1 id="claude-code-mastery-advanced-patterns-for-10x-productivity">Claude Code Mastery: Advanced Patterns for 10x Productivity</h1>
+<p><strong>A comprehensive guide to the patterns that actually move the needle</strong></p>
+<p><em>Reverse-engineered from 2000+ hours of LLM-assisted coding</em></p>
+<hr>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+<li><a href="#1-core-philosophy-context-engineering" rel="">Core Philosophy: Context Engineering</a></li>
+<li><a href="#2-pattern-1-error-logging-system" rel="">Pattern 1: Error Logging System</a></li>
+<li><a href="#3-pattern-2-slash-commands-as-lightweight-local-apps" rel="">Pattern 2: Slash Commands as Lightweight Local Apps</a></li>
+<li><a href="#4-pattern-3-hooks-for-deterministic-safety" rel="">Pattern 3: Hooks for Deterministic Safety</a></li>
+<li><a href="#5-pattern-4-context-hygiene" rel="">Pattern 4: Context Hygiene</a></li>
+<li><a href="#6-pattern-5-subagent-control" rel="">Pattern 5: Subagent Control</a></li>
+<li><a href="#7-pattern-6-the-reprompter-system" rel="">Pattern 6: The Reprompter System</a></li>
+<li><a href="#8-subagent-monitoring-dashboard" rel="">Subagent Monitoring Dashboard</a></li>
+<li><a href="#9-quick-reference-table" rel="">Quick Reference Table</a></li>
+</ol>
+<hr>
+<h2 id="1-core-philosophy-context-engineering">1. Core Philosophy: Context Engineering</h2>
+<h3 id="the-fundamental-mindset-shift">The Fundamental Mindset Shift</h3>
+<p><strong>Any issue in LLM-generated code is solely due to YOU.</strong></p>]]></description>
 </item>
 </channel>
 </rss>

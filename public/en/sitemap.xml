@@ -11,6 +11,15 @@
                     hreflang="en"
                     href="http://localhost:1313/en/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BF%BB%E8%AF%91prompt/"
                     /></url><url>
+            <loc>http://localhost:1313/en/claude-code/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/claude-code/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/claude-code/"
+                    /></url><url>
             <loc>http://localhost:1313/en/emoji-support/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -20,7 +29,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/emoji-support/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/ai/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/ai/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/ai/"
@@ -38,7 +47,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/ai/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/categories/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/categories/"
@@ -47,7 +56,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/posts/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/posts/"
@@ -65,7 +74,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/prompt/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/"
@@ -74,7 +83,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/"
@@ -83,7 +92,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/claude-code/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/claude-code/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/claude-code/"
@@ -92,16 +101,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/claude-code/"
                     /></url><url>
-            <loc>http://localhost:1313/en/claude-code/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/claude-code/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/claude-code/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/llm/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/en/tags/llm/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/tags/llm/"
@@ -110,8 +110,24 @@
                     hreflang="en"
                     href="http://localhost:1313/en/tags/llm/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/productivity/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/en/tags/programming/</loc><lastmod>2026-01-22T23:27:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/en/tags/productivity/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/tags/productivity/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/tags/productivity/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/tags/programming/</loc><lastmod>2026-01-22T23:52:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/tags/programming/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/tags/programming/"
+                    /></url><url>
             <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-04-12T11:35:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
